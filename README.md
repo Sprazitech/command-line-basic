@@ -6,7 +6,9 @@ To initialize a git repository, I opened my directory in my list week folder on 
 
 "git init".
 
-![Task 1](photos/task_1.jpg)
+![Task 1](photos/task_1.jpg)   
+
+
 
 **2. Add and commit files:**
 
